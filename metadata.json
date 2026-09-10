@@ -1,0 +1,7 @@
+{
+  "name": "سوق العقار المغربي",
+  "description": "منصة مغربية تفاعلية لبيع وشراء وكراء العقارات والشقق والمنازل والفيلات والأراضي مع بحث متقدم وإضافة إعلانات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
